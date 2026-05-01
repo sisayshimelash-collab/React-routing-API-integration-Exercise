@@ -1,0 +1,46 @@
+[
+  {
+    "product_id": 3,
+    "product_name": "iPhone  SE",
+    "product_url": "https://www.apple.com/in/iphone-se/",
+    "product_brief_description": "Pro cameras. Pro display. Pro performance.",
+    "product_description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.",
+    "product_img": "https://d3v4ckszie160z.cloudfront.net/assets/documents/fullstack-web-application-development/class-contents/imageone-content-1764069182371.jpeg",
+    "product_link": "https://support.apple.com/en-in/111879",
+    "starting_price": "$399",
+    "price_range": "From $9.54/mo. or $229 with trade-in."
+  },
+  {
+    "product_id": 6,
+    "product_name": "iPhone 11",
+    "product_url": "https://www.apple.com/in/iphone-11/",
+    "product_brief_description": "Lots to love. Less to spend.",
+    "product_description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you.",
+    "product_img": "https://d3v4ckszie160z.cloudfront.net/assets/documents/fullstack-web-application-development/class-contents/imagetwo-content-1764069228856.jpeg",
+    "product_link": "https://www.apple.com/in/iphone-11/",
+    "starting_price": "$449",
+    "price_range": "From $18.70/mo. or $449 with trade-in."
+  },
+  {
+    "product_id": 7,
+    "product_name": "iPhone 11",
+    "product_url": "https://www.apple.com/in/iphone-11/",
+    "product_brief_description": "Lots to love. Less to spend.",
+    "product_description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you.",
+    "product_img": "https://d3v4ckszie160z.cloudfront.net/assets/documents/fullstack-web-application-development/class-contents/imagetwo-content-1764069228856.jpeg",
+    "product_link": "https://www.apple.com/in/iphone-11/",
+    "starting_price": "$449",
+    "price_range": "From $18.70/mo. or $449 with trade-in."
+  },
+  {
+    "product_id": 8,
+    "product_name": "iPhone 11",
+    "product_url": "https://www.apple.com/in/iphone-11/",
+    "product_brief_description": "Lots to love. Less to spend.",
+    "product_description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you.",
+    "product_img": "https://d3v4ckszie160z.cloudfront.net/assets/documents/fullstack-web-application-development/class-contents/imagetwo-content-1764069228856.jpeg",
+    "product_link": "https://www.apple.com/in/iphone-11/",
+    "starting_price": "$449",
+    "price_range": "From $18.70/mo. or $449 with trade-in."
+  }
+]

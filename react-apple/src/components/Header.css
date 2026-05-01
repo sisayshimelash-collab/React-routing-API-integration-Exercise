@@ -1,0 +1,26 @@
+.nav-wrapper {
+  background: rgba(0, 0, 0, 0.85);
+}
+
+/* FORCE visibility */
+.nav-wrapper .nav-link {
+  color: white !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* hover */
+.nav-wrapper .nav-link:hover {
+  color: #ccc !important;
+}
+
+/* icon fix */
+.navbar-nav img {
+  height: 18px;
+  display: inline-block;
+}
+
+/* logo */
+.navbar-brand img {
+  height: 20px;
+}
